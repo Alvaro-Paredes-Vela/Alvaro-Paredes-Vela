@@ -89,12 +89,7 @@ Arquitectura · Automatización de procesos
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Alvaro-Paredes-Vela&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alvaro-Paredes-Vela&theme=github-dark-blue&hide_border=true&background=0d1117" height="165"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvaro-Paredes-Vela&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" height="165"/>
+<img src="https://gh-stats.com/api/Alvaro-Paredes-Vela?theme=onyx&widgets=grade,streaks,languages&order=grade,streaks,languages" width="600"/>
 
 </div>
 
