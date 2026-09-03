@@ -2,11 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=150&section=header"/>
 
-<a href="#">
+<a href="https://github.com/Alvaro-Paredes-Vela">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Alvaro+Paredes+Vela;Software+Developer;Systems+Engineering+Student;Web+%C2%B7+Mobile+%C2%B7+Databases" alt="Typing SVG" />
 </a>
-
-<br>
 
 <sub>Ingeniería en Sistemas · UAGRM — FINOR</sub>
 
@@ -15,7 +13,7 @@
 <br>
 
 <div align="center">
-<img src="https://img.shields.io/badge/-000000?style=flat-square" height="1" width="600"/>
+<img src="https://img.shields.io/badge/-000000?style=flat-square" height="1" width="620"/>
 </div>
 
 <br>
@@ -91,17 +89,19 @@ Arquitectura · Automatización de procesos
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alvaroparedesvela&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Alvaro-Paredes-Vela&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alvaro-Paredes-Vela&theme=github-dark-blue&hide_border=true&background=0d1117" height="165"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvaro-Paredes-Vela&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" height="165"/>
 
 </div>
 
-<sub>Reemplazá <code>Alvaro-Paredes-Vela</code> por tu usuario real de GitHub para que estas tarjetas se activen.</sub>
-
-<br><br>
+<br>
 
 <div align="center">
-<img src="https://img.shields.io/badge/-000000?style=flat-square" height="1" width="600"/>
+<img src="https://img.shields.io/badge/-000000?style=flat-square" height="1" width="620"/>
 </div>
 
 <br>
@@ -112,8 +112,15 @@ Arquitectura · Automatización de procesos
 
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="30"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" height="30"/></a>
+<a href="https://github.com/Alvaro-Paredes-Vela"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" height="30"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" height="30"/></a>
 
+</div>
+
+<br>
+
+<div align="center">
+<sub>Gracias por pasar por aquí ✦</sub>
 </div>
 
 <br>
