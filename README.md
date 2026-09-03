@@ -1,27 +1,68 @@
-<h1 align="center">👋 Hola, soy Alvaro Paredes Vela</h1>
+<div align="center">
 
-<h3 align="center">
-Software Developer | Systems Engineering | Web · Mobile · Databases
-</h3>
+# Alvaro Paredes Vela
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alvaro-Paredes-Vela&label=Visitas%20al%20perfil&style=flat" />
-</p>
+### Software Developer &nbsp;·&nbsp; Systems Engineering &nbsp;·&nbsp; Web · Mobile · Databases
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=160&section=header&text=&fontSize=0" width="100%"/>
 
-## 👨‍💻 Sobre mí
+</div>
 
-Soy estudiante de **Ingeniería en Sistemas** en la **UAGRM - FINOR**, enfocado en el desarrollo de soluciones tecnológicas orientadas a problemas reales.
+<br>
 
-Me interesa especialmente el desarrollo de aplicaciones web y móviles, bases de datos, automatización de procesos y diseño de sistemas de información.
+## Sobre mí
 
-Actualmente desarrollo proyectos utilizando tecnologías modernas como **React, JavaScript, PostgreSQL, Supabase, C++, SQL y Power BI**.
+Estudiante de **Ingeniería en Sistemas** en la **UAGRM · FINOR**, enfocado en el desarrollo de soluciones tecnológicas orientadas a problemas reales.
 
-```text
-💻 Desarrollo Web
-📱 Desarrollo de Aplicaciones
-🗄️ Bases de Datos
-📊 Business Intelligence
-⚙️ Sistemas de Información
-🚀 Desarrollo de Software
+Me interesa especialmente el desarrollo de aplicaciones **web y móviles**, **bases de datos**, la **automatización de procesos** y el diseño de **sistemas de información**.
+
+Actualmente construyo proyectos con tecnologías modernas como **React**, **JavaScript**, **PostgreSQL**, **Supabase**, **C++**, **SQL** y **Power BI**.
+
+<br>
+
+## Áreas de enfoque
+
+<div align="center">
+
+| | |
+|:---:|:---|
+| 💻 | **Desarrollo Web** |
+| 📱 | **Desarrollo de Aplicaciones** |
+| 🗄️ | **Bases de Datos** |
+| 📊 | **Business Intelligence** |
+| ⚙️ | **Sistemas de Información** |
+| 🚀 | **Desarrollo de Software** |
+
+</div>
+
+<br>
+
+## Stack tecnológico
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+</div>
+
+<br>
+
+## Conectemos
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=100&section=footer&text=&fontSize=0" width="100%"/>
