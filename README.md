@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">👋 Hola, soy Alvaro Paredes Vela</h1>
 
-<!--
-**Alvaro-Paredes-Vela/Alvaro-Paredes-Vela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Software Developer | Systems Engineering | Web · Mobile · Databases
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alvaro-Paredes-Vela&label=Visitas%20al%20perfil&style=flat" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 Sobre mí
+
+Soy estudiante de **Ingeniería en Sistemas** en la **UAGRM - FINOR**, enfocado en el desarrollo de soluciones tecnológicas orientadas a problemas reales.
+
+Me interesa especialmente el desarrollo de aplicaciones web y móviles, bases de datos, automatización de procesos y diseño de sistemas de información.
+
+Actualmente desarrollo proyectos utilizando tecnologías modernas como **React, JavaScript, PostgreSQL, Supabase, C++, SQL y Power BI**.
+
+```text
+💻 Desarrollo Web
+📱 Desarrollo de Aplicaciones
+🗄️ Bases de Datos
+📊 Business Intelligence
+⚙️ Sistemas de Información
+🚀 Desarrollo de Software
