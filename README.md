@@ -96,7 +96,7 @@ Arquitectura · Automatización de procesos
 
 </div>
 
-<sub>Reemplazá <code>alvaroparedesvela</code> por tu usuario real de GitHub para que estas tarjetas se activen.</sub>
+<sub>Reemplazá <code>Alvaro-Paredes-Vela</code> por tu usuario real de GitHub para que estas tarjetas se activen.</sub>
 
 <br><br>
 
